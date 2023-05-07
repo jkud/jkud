@@ -5,4 +5,4 @@
         <img src="https://lanyard-profile-readme.vercel.app/api/253951776921747456" alt="Discord at ud#0006">  
     </a>
 </div>
-active on discord & twitter as of **May 2023**
+- active on discord & twitter as of **May2023**
