@@ -6,6 +6,6 @@
     </a>
 </div>
 <div align="center">
-- Active on discord & twitter as of <strong>May 2023</strong>.
+- Active on discord & twitter as of <strong>June 2023</strong>.
     </a>
 </div>
